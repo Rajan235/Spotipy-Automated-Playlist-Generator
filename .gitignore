@@ -1,0 +1,5 @@
+# Ignore .env file
+.env
+
+# Ignore Spotify OAuth token cache
+token.txt
